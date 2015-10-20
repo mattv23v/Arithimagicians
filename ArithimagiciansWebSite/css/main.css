@@ -47,10 +47,11 @@ form {
     margin: auto;
     left: 30em;
     top: 11em;
-    right:0;
+    right:26em;
     bottom:0;
     height: 260px;
     z-index: 999999;
+    width: 20em;
 }
 
 label {
